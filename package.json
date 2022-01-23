@@ -1,0 +1,23 @@
+{
+  "name": "slashBotTemplate",
+  "author": "brandoge91",
+  "version": "1.9.4",
+  "description": "a discord bot template that makes use of slash / commands",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^0.11.0",
+    "@discordjs/rest": "^0.2.0-canary.0",
+    "discord-api-types": "^0.26.1",
+    "discord.js": "^13.5.1",
+    "dotenv": "^10.0.0",
+    "fs": "^0.0.1-security",
+    "lodash": "^4.17.21",
+    "path": "^0.12.7",
+    "prismarine-viewer": "^1.21.0"
+  }
+}
